@@ -127,6 +127,8 @@ https://www.facebook.com/profile.php?id=<PROFILEID>
 ```
 
 - 🌐 [onlysearch.co](https://onlysearch.co/) _\~ OF searcher_
+- 🌐 [onlyfinds.io](https://onlyfinds.io/) _\~ OF searcher_
+
 - 🌐 [mattw.io/youtube-metadata](https://mattw.io/youtube-metadata/) _\~ YT metadata parser_
 - 🌐 [findyoutubevideo.thetechrobo.ca](https://findyoutubevideo.thetechrobo.ca/) _\~ YT private/removed parser_
 - 🌐 [ytcomment.kmcat.uk](https://ytcomment.kmcat.uk) _\~ YT comments search_
